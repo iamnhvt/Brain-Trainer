@@ -1,0 +1,7 @@
+#Sun Mar 04 15:00:36 AEDT 2018
+base.0=/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b6f844a9c59be8bf4e1b0ffdd02266718fa2a7d5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d485908f25a0ccca8a3bf03c5f4f1f21925a2421/classes.dex
+base.1=/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d485908f25a0ccca8a3bf03c5f4f1f21925a2421
+file.0=/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b6f844a9c59be8bf4e1b0ffdd02266718fa2a7d5/classes.dex

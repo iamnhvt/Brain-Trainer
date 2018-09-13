@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-27.1.0_b8d0d846bb0b94533b58caacc577ea24aeb924d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_b76bed13d59a1dccf2d7ad6036a833155d17b829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-27.1.0_5c45c5129f3ffa1c20d7de8049434ed64540421a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8666b6fac9cc9a4890b55173b55caf2329826939">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b6f844a9c59be8bf4e1b0ffdd02266718fa2a7d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-27.1.0_2aa47c113e01b078e1969b046f197e673b60032c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-27.1.0_e6e18546fccb40594d788882ba7e2cf5749821d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-27.1.0_178b3c3dad6973f0618ba579c2db11ca8e5137fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.1.0_5eeed18be3753778dbe1ae4a861c35809ee51398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-viewmodel-1.1.0_b61179c2af48eeeb69264c1b100d4b66a182dfbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-27.1.0_eda817ab81948732100f59b1d62eb96d71bf448f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_b3839ba1e115b60ad9980e9d409b714fdc8e0549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-27.1.0_5f7e6445c22e4982809a819755f8b043aaf14d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_e59f46d0b07a62b21aa838654cb6125afb587854/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-livedata-core-1.1.0_8284ab1407897b954abf2167d12190acf953d1c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.core-runtime-1.1.0_20709a9f51149242d52ad3ce7dcc5037064bdf93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="842ee341561dab7ecb0e87320a9307daacca23ec">
+        <dex dex="/Users/phamnhattuong/Documents/AndroidApps/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d485908f25a0ccca8a3bf03c5f4f1f21925a2421/classes.dex" />
+    </item>
+
+</items>
